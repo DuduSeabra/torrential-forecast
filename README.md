@@ -5,7 +5,7 @@ construída passo a passo e fundamentada em literatura científica recente.
 
 ## Roteiro
 - [x] **Fase 0 — Fundação:** estrutura, skill de pesquisa, ambiente.
-- [ ] **Fase 1 — Estado da arte:** `docs/research/001-estado-da-arte-nowcasting.md` → ADR de direção.
+- [x] **Fase 1 — Estado da arte:** `docs/research/001-estado-da-arte-nowcasting.md` → ADR 0003 (previsão probabilística nos pluviômetros + satélite).
 - [ ] **Fase 2 — Entender o problema:** definição de "chuva destrutiva", inventário de dados, EDA e catálogo de eventos.
 - [ ] **Fase 3 — Baselines e avaliação:** split temporal, persistência/climatologia/extrapolação, métricas para extremos.
 - [ ] **Fase 4 — Modelo de deep learning:** escolhido com base nas fases anteriores.
