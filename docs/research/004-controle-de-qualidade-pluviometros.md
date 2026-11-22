@@ -1,5 +1,5 @@
 # 004 — Controle de qualidade (QC) de pluviômetros automáticos
-Data: 2026-11-22 · Status: aguardando decisão
+Data: 2026-11-22 · Status: decidido (ADR 0006 — Opção C)
 
 ## Pergunta
 Como detectar e tratar erros nos dados sub-horários dos pluviômetros CEMADEN de Petrópolis sem

@@ -8,4 +8,4 @@ Relatórios gerados pela skill `pesquisa-cientifica`, um por tema (`NNN-tema.md`
 | 001 | [Estado da arte em nowcasting](001-estado-da-arte-nowcasting.md) | decidido (ADR 0003) |
 | 002 | [Definição de chuva destrutiva](002-definicao-chuva-destrutiva.md) | decidido (ADR 0004) |
 | 003 | [Inventário de dados](003-inventario-de-dados.md) | decidido (ADR 0005) |
-| 004 | [Controle de qualidade de pluviômetros](004-controle-de-qualidade-pluviometros.md) | aguardando decisão |
+| 004 | [Controle de qualidade de pluviômetros](004-controle-de-qualidade-pluviometros.md) | decidido (ADR 0006) |
